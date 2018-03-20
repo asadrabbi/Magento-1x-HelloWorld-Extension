@@ -1,0 +1,9 @@
+.helloworld, .helloworld2{
+    font-size: 20px;
+    padding: 15px;
+    font-weight: bold;
+    color: red;
+}
+.helloworld2{
+    color: blue;
+}
